@@ -1,0 +1,23 @@
+composer require laravel/breeze --dev
+php artisan breeze:install
+npm install && npm run dev
+php artisan migrate
+
+cấu hình .env
+chỉnh sửa model
+định nghĩa gate phân quyền 
+
+Áp dụng chính xác Authorization với Gate/Policy
+
+
+
+
+
+
+
+
+
+
+Cấu hình Fortify
+config/fortify.php, bật tính năng 2FA
+cập nhật model user Thêm trait TwoFactorAuthenticatable
