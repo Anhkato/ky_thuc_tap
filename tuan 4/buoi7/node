@@ -1,0 +1,20 @@
+composer require laravel/sanctum
+php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+php artisan migrate
+
+cấu hình sancum và env
+
+Thêm middleware Sanctum vào api middleware group
+
+tạo thư mục vue 
+npm create vite@latest product-frontend -- --template vue
+cd product-frontend
+npm install axios vue-router@4
+npm run dev
+
+Cấu hình axios (src/axios.js)
+tạo thư mục route bên vue
+
+ Gọi API Fake Store API (https://fakestoreapi.com/products)
+ import products
+
