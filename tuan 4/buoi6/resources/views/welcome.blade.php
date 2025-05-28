@@ -1,0 +1,1 @@
+<img src="http://localhost/ass1/ass2.jpg" alt="" width="">
