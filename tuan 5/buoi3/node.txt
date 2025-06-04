@@ -1,0 +1,10 @@
+Cấu trúc: Gồm 3 module: quản lý sách (book_management.py), quản lý thư viện và người dùng (library_management.py), và module thực thi chính (main.py).
+OOP Áp dụng:
+Đóng gói: Bảo vệ dữ liệu (mã sách, mã người dùng).
+Kế thừa: PhysicalBook và EBook kế thừa từ Book.
+Đa hình: Phương thức get_info() hiển thị thông tin khác nhau tùy loại sách.
+Chức năng chính:
+Tạo và quản lý các loại sách, người dùng.
+Mô phỏng mượn/trả sách, cập nhật tồn kho.
+Hiển thị danh sách sách (sử dụng iterator) và sách người dùng mượn.
+Module Library: Cung cấp iterator để duyệt sách (sắp xếp theo tiêu đề).
