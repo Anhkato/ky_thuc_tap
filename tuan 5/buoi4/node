@@ -1,0 +1,16 @@
+1. Khởi Chạy
+nạp các module cần thiết (utils, config) 
+
+2. Thu Thập và Xác Thực Dữ Liệu
+main() sẽ gọi hàm validate_input() từ utils.py.
+
+3. Xử Lý và Tính Toán Chi Phí
+main() gọi hàm calculate_cost() trong utils.py.
+sau đó sử dụng dữ liệu từ config.py (giá gốc và % giảm giá) để tính toán.
+
+4. Lưu Trữ Dữ Liệu 
+Hàm main() tập hợp toàn bộ thông tin đăng ký hợp lệ vào một dictionary. 
+gọi hàm save_registration() từ utils.py và truyền dictionary này vào. 
+
+5. Hiển Thị Kết Thúc
+main() gọi hàm load_registrations() từ utils.py 
