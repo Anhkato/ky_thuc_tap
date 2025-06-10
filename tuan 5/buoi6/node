@@ -1,0 +1,6 @@
+Cấu trúc 2 tệp: Chương trình gồm main.py (giao diện người dùng) và quan_ly_nhat_ky.py (xử lý logic).
+Lưu trữ riêng biệt: Tất cả tệp nhật ký (tuan_x.txt) được lưu gọn gàng trong thư mục nhat_ky.
+Tạo & Cập nhật: Dễ dàng tạo mới hoặc ghi đè nội dung cho một nhật ký tuần bất kỳ.
+Đọc chi tiết: Cho phép xem lại toàn bộ nội dung của một tuần làm việc đã lưu.
+Xóa nhật ký: Xóa bỏ các tệp nhật ký không còn cần thiết một cách an toàn.
+Báo cáo tổng kết: Tự động tính tổng số giờ làm việc và nhiệm vụ hoàn thành từ tất cả các tuần.
