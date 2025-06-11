@@ -1,0 +1,10 @@
+Sử dụng Pandas và Matplotlib: Dùng pandas để xử lý dữ liệu (tính toán, lọc, nhóm) và 
+matplotlib để vẽ các biểu đồ (đường, cột, tròn).
+Cấu trúc 2 tệp: Code được tách làm 2 tệp rõ ràng: logic.py chứa các hàm xử lý và
+main.py để điều khiển và thực thi.
+Tạo tệp dữ liệu progress.csv 
+Phân tích dữ liệu theo tuần 
+Vẽ và lưu các biểu đồ
+Xuất báo cáo tổng kết.
+Lưu trữ kết quả: Toàn bộ kết quả đầu ra như file ảnh .png và
+báo cáo .txt được tự động lưu vào một thư mục con tên là reports.

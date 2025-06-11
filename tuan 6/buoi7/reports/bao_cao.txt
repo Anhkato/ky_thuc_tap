@@ -1,0 +1,21 @@
+--- BÁO CÁO TỔNG KẾT TIẾN ĐỘ HỌC TẬP ---
+
+1. Thống kê của từng học viên:
+  - An:
+    + Tổng bài tập: 20
+    + Điểm TB: 9.00
+  - Bình:
+    + Tổng bài tập: 16
+    + Điểm TB: 7.83
+  - Chi:
+    + Tổng bài tập: 21
+    + Điểm TB: 8.83
+  - Dũng:
+    + Tổng bài tập: 14
+    + Điểm TB: 7.33
+  - Giang:
+    + Tổng bài tập: 19
+    + Điểm TB: 8.50
+
+2. Ghi nhận đặc biệt:
+  - Học viên tiến bộ nhất: Bình (tăng 1.50 điểm)

@@ -12,5 +12,12 @@
         "ma_khoa_hoc": "KH001",
         "ngay_dang_ky": "05/06/2025 10:31:13",
         "chi_phi": 1500000
+    },
+    {
+        "ho_ten": "Trần Tuấn Anh",
+        "email": "anhttph48908@gnmail.com",
+        "ma_khoa_hoc": "KH001",
+        "ngay_dang_ky": "05/06/2025 10:45:49",
+        "chi_phi": 1500000
     }
 ]
