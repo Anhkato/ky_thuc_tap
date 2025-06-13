@@ -1,0 +1,6 @@
+Thư viện chính: Sử dụng mysql-connector-python để kết nối và thao tác với cơ sở dữ liệu MySQL.
+Cấu trúc tệp: Dự án được chia thành các tệp chuyên biệt 
+(config.py, database_setup.py, data_manager.py, reporting.py, main.py) để dễ quản lý và bảo trì.
+Luồng hoạt động: Chương trình chạy trên terminal,
+ tự động thực hiện các bước: kết nối, thiết lập database, thêm dữ liệu mẫu,
+  truy vấn, cập nhật, xóa, tạo báo cáo và cuối cùng là đóng kết nối.
