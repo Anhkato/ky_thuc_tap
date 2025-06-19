@@ -1,0 +1,4 @@
+Quản lý học viên: Cho phép thêm, đăng ký khóa học, nhập điểm và hiển thị thông tin học viên.
+Thiết kế OOP toàn diện: Áp dụng Lớp, Kế thừa, Đa hình, Trừu tượng, Đóng gói, Interface, và Enum.
+Lưu trữ dữ liệu: Ghi và đọc danh sách học viên (kèm thông tin đăng ký) vào/từ tệp CSV.
+Xử lý lỗi hiệu quả: Bắt và quản lý các ngoại lệ khi nhập liệu sai, không tìm thấy dữ liệu, hoặc lỗi file.

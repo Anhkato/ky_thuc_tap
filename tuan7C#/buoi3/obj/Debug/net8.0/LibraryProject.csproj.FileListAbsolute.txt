@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\bin\Debug\net8.0\LibraryProject.exe
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\bin\Debug\net8.0\LibraryProject.deps.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\bin\Debug\net8.0\LibraryProject.runtimeconfig.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\bin\Debug\net8.0\LibraryProject.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\bin\Debug\net8.0\LibraryProject.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.sourcelink.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\refint\LibraryProject.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\LibraryProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi3\obj\Debug\net8.0\ref\LibraryProject.dll

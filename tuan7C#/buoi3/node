@@ -1,0 +1,32 @@
+Quản lý Kho sách (List<Book>):
+
+Đã tạo một danh sách để lưu trữ thông tin chi tiết của từng cuốn sách.
+Dữ liệu được khởi tạo sẵn một vài cuốn để dễ dàng kiểm tra chức năng.
+Thêm sách thông minh:
+
+Cho phép thêm một đầu sách mới vào kho.
+Hệ thống tự động kiểm tra ID sách: nếu sách đã tồn tại, nó sẽ cộng dồn số lượng thay vì tạo một bản ghi mới, đảm bảo dữ liệu không bị trùng lặp.
+Tìm kiếm linh hoạt (LINQ):
+
+Người dùng có thể dễ dàng tìm sách dựa trên Tên tác giả hoặc Thể loại.
+Sử dụng LINQ - Where để lọc và trả về kết quả một cách hiệu quả.
+Phân loại và Thống kê (LINQ):
+
+Sử dụng LINQ - GroupBy để nhóm tất cả các sách theo Thể loại và tính tổng số lượng sách trong mỗi nhóm, cho cái nhìn tổng quan về kho sách.
+Xử lý Mượn/Trả sách:
+
+Mượn sách: Giảm số lượng sách trong kho. Nếu sách đã hết, yêu cầu sẽ được đưa vào hàng chờ.
+Trả sách: Tăng số lượng sách trở lại.
+Lịch sử giao dịch (Stack): Mọi hành động mượn hoặc trả đều được ghi lại vào một Stack, giúp dễ dàng xem lại các giao dịch gần nhất.
+Quản lý người mượn (Dictionary và LINQ):
+
+Sử dụng Dictionary để theo dõi chính xác người dùng nào đang mượn những cuốn sách nào (lưu theo ID sách).
+Sử dụng LINQ - Join để kết hợp thông tin người mượn và thông tin sách, tạo ra một báo cáo rõ ràng "ai đang mượn sách gì".
+Hàng chờ mượn sách (Queue):
+
+Khi một cuốn sách được yêu cầu nhưng đã hết, yêu cầu của người dùng sẽ được đưa vào một Queue (hàng chờ).
+Ngay khi có người trả cuốn sách đó, hệ thống sẽ tự động xử lý yêu cầu cho người đầu tiên trong hàng chờ, đảm bảo tính công bằng.
+Thống kê nâng cao (LINQ và HashSet):
+
+Hiển thị Top 3 sách có số lượng nhiều nhất bằng LINQ - OrderByDescending.
+Sử dụng HashSet để tự động duy trì một danh sách các thể loại sách duy nhất có trong thư viện mà không cần xử lý trùng lặp thủ công

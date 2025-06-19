@@ -1,0 +1,11 @@
+main.cs: Hàm chính điều khiển luồng chương trình.
+data.cs: Lưu trữ dữ liệu các loại bánh và giá.
+QuanLyDon.cs: Xử lý hiển thị chào mừng, danh sách bánh, và thống kê.
+TinhToanDon.cs: Chứa các hàm tính toán tiền và phân loại đơn.
+HienThiDon.cs: Hiển thị chi tiết từng đơn hàng.
+Program.cs: File này để trống, không có chức năng gì để đảm bảo main.cs là điểm khởi chạy chính
+Chức năng chính:
+Nhập đơn hàng, tính tiền, phân loại đơn lớn/thường.
+Hiển thị danh sách bánh có sẵn ngay từ đầu.
+Thống kê doanh thu và số lượng đơn cuối ngày.
+Hỗ trợ nhập tên bánh không phân biệt chữ hoa/thường.

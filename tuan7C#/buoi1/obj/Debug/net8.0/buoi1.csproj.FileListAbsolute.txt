@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\bin\Debug\net8.0\buoi1.exe
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\bin\Debug\net8.0\buoi1.deps.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\bin\Debug\net8.0\buoi1.runtimeconfig.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\bin\Debug\net8.0\buoi1.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\bin\Debug\net8.0\buoi1.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.sourcelink.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\refint\buoi1.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\buoi1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi1\obj\Debug\net8.0\ref\buoi1.dll

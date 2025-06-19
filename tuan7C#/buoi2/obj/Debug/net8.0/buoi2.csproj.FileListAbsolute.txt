@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.sourcelink.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\bin\Debug\net8.0\buoi2.exe
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\bin\Debug\net8.0\buoi2.deps.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\bin\Debug\net8.0\buoi2.runtimeconfig.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\bin\Debug\net8.0\buoi2.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\bin\Debug\net8.0\buoi2.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\refint\buoi2.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\buoi2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi2\obj\Debug\net8.0\ref\buoi2.dll
