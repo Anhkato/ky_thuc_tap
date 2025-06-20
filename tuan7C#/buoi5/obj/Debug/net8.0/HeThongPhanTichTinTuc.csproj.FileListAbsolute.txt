@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\bin\Debug\net8.0\HeThongPhanTichTinTuc.exe
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\bin\Debug\net8.0\HeThongPhanTichTinTuc.deps.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\bin\Debug\net8.0\HeThongPhanTichTinTuc.runtimeconfig.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\bin\Debug\net8.0\HeThongPhanTichTinTuc.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\bin\Debug\net8.0\HeThongPhanTichTinTuc.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.sourcelink.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\refint\HeThongPhanTichTinTuc.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\HeThongPhanTichTinTuc.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi5\obj\Debug\net8.0\ref\HeThongPhanTichTinTuc.dll

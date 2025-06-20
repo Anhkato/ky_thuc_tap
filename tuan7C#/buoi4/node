@@ -1,0 +1,5 @@
+Triển khai EventHandler & EventArgs
+Sử dụng Func, Action, Predicate
+ Anonymous Methods và Lambda
+ Observer pattern - mô phỏng nhiều subscriber
+Bonus: Đếm số đơn với LINQ

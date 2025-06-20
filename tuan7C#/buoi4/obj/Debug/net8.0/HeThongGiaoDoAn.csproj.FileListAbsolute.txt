@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\bin\Debug\net8.0\HeThongGiaoDoAn.exe
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\bin\Debug\net8.0\HeThongGiaoDoAn.deps.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\bin\Debug\net8.0\HeThongGiaoDoAn.runtimeconfig.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\bin\Debug\net8.0\HeThongGiaoDoAn.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\bin\Debug\net8.0\HeThongGiaoDoAn.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.sourcelink.json
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\refint\HeThongGiaoDoAn.dll
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.pdb
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\HeThongGiaoDoAn.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ky_thuc_tap\tuan7C#\buoi4\obj\Debug\net8.0\ref\HeThongGiaoDoAn.dll
